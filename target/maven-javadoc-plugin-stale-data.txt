@@ -1,0 +1,52 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-classpath
+'/home/jeffrey/.m2/repository/org/mindrot/jbcrypt/0.4/jbcrypt-0.4.jar:/home/jeffrey/.m2/repository/com/mysql/mysql-connector-j/9.0.0/mysql-connector-j-9.0.0.jar:/home/jeffrey/.m2/repository/com/google/protobuf/protobuf-java/4.26.1/protobuf-java-4.26.1.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+17
+-sourcepath
+'/home/jeffrey/eclipse-workspace/projectJDBC/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/jeffrey/eclipse-workspace/projectJDBC/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'FoodApp 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'FoodApp 1.0-SNAPSHOT API'
+model
+app
+dao
+util
+/home/jeffrey/.m2/repository/org/mindrot/jbcrypt/0.4/jbcrypt-0.4.jar = 1770033851063
+/home/jeffrey/.m2/repository/com/mysql/mysql-connector-j/9.0.0/mysql-connector-j-9.0.0.jar = 1719899295000
+/home/jeffrey/.m2/repository/com/google/protobuf/protobuf-java/4.26.1/protobuf-java-4.26.1.jar = 1711571608000
+/home/jeffrey/eclipse-workspace/projectJDBC/src/main/java = 1775132661000
+/home/jeffrey/eclipse-workspace/projectJDBC/target/reports/apidocs/index.html = 1775672421332
+/home/jeffrey/eclipse-workspace/projectJDBC/target/reports/apidocs/type-search-index.js = 1775672421347
+/home/jeffrey/eclipse-workspace/projectJDBC/target/reports/apidocs/serialized-form.html = 1775672421307
+/home/jeffrey/eclipse-workspace/projectJDBC/target/reports/apidocs/index-all.html = 1775672421359
+/home/jeffrey/eclipse-workspace/projectJDBC/target/reports/apidocs/overview-tree.html = 1775672421330
+/home/jeffrey/eclipse-workspace/projectJDBC/target/reports/apidocs/search.html = 1775672421360
+/home/jeffrey/eclipse-workspace/projectJDBC/target/reports/apidocs/overview-summary.html = 1775672421361
+/home/jeffrey/eclipse-workspace/projectJDBC/target/reports/apidocs/help-doc.html = 1775672421362
+/home/jeffrey/eclipse-workspace/projectJDBC/target/reports/apidocs/package-search-index.js = 1775672421347
+/home/jeffrey/eclipse-workspace/projectJDBC/target/reports/apidocs/allpackages-index.html = 1775672421346
+/home/jeffrey/eclipse-workspace/projectJDBC/target/reports/apidocs/element-list = 1775672421277
+/home/jeffrey/eclipse-workspace/projectJDBC/target/reports/apidocs/allclasses-index.html = 1775672421345
+/home/jeffrey/eclipse-workspace/projectJDBC/target/reports/apidocs/tag-search-index.js = 1775672421348
+/home/jeffrey/eclipse-workspace/projectJDBC/target/reports/apidocs/module-search-index.js = 1775672421346
+/home/jeffrey/eclipse-workspace/projectJDBC/target/reports/apidocs/member-search-index.js = 1775672421347
